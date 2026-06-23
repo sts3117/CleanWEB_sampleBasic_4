@@ -1,0 +1,6 @@
+{
+  "name": "클린노트",
+  "description": "모바일 최적화 프리미엄 입주/이사 청소 서비스 원페이지 랜딩페이지",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
